@@ -10,4 +10,4 @@ A local multiuser card game coded in Python using Tkinter library. You can find 
 
 During my ML Engineer degree final project, I worked with 3 others students on a way to decide where to implements future wind project in France in the coming years. To do that we gathered data from differents sources, we trained a SARIMAX Machine Learning model to predict wind speed within 7 years and created a map to visualize the results. 
 
-You can access the map [here] (https://tristangiando.github.io/jedha_final_project/jedha_final_project/map/app_flask/final_map.html)
+You can access the map [here](https://tristangiando.github.io/jedha_final_project/jedha_final_project/map/app_flask/final_map.html)

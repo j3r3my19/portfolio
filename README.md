@@ -4,7 +4,7 @@ Hello! My name is Jeremy, and I'm excited to share my still developing data port
 
 ## [Nine Game](https://github.com/j3r3my19/nine_game)
 
-A local multiuser card game coded in Python using Tkinter library. You can find the rules here ! 
+A local multiuser card game coded in Python using Tkinter library. You can find the rules in the project readme ! 
 
 ## [The future of wind energy in France](https://github.com/tristanGIANDO/jedha_final_project)
 
